@@ -28,3 +28,8 @@ export default class Episode {
     }
 
 }
+
+
+
+//Zoo:
+// Create a class for an animal of every letter of the alphabet 
